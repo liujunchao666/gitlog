@@ -1,4 +1,5 @@
 init
+master init
 add
 add dev master dev
 master_bug bug
