@@ -4,3 +4,5 @@ add
 add dev master dev
 master_bug bug
 log
+log1
+log2
